@@ -179,3 +179,4 @@ Screenshots are saved to the specified output directory (default: `nike-archive/
    - Screenshots saved in `nike-archive/` folder
    - Console shows progress and results summary
    - Filename: `12345-Test Company.png`
+
